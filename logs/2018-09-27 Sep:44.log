@@ -1,0 +1,64 @@
+2018-09-27 17:44:06,470 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-27 17:44:06,470 - BrowserEngine - INFO - The testServer URL is: https://www.baidu.com.
+2018-09-27 17:44:07,170 - BrowserEngine - INFO - open url:https://www.baidu.com
+2018-09-27 17:44:07,390 - BrowserEngine - INFO - Maximize the current window.
+2018-09-27 17:44:07,393 - BrowserEngine - INFO - 等待10秒.
+2018-09-27 17:44:07,433 - BasePage - INFO - Had find the element ' 新闻 ' successful by xpath via value: //*[@id='u1']/a[@name='tj_trnews'] 
+2018-09-27 17:44:09,362 - BasePage - INFO - 页面元素被点击
+2018-09-27 17:44:11,367 - BasePage - INFO - Sleep for 2 seconds.
+2018-09-27 17:44:11,401 - BasePage - INFO - Had find the element ' 体育 ' successful by xpath via value: //*[@id='channel-all']/div/ul/li[7]/a 
+2018-09-27 17:44:12,191 - BasePage - INFO - 页面元素被点击
+2018-09-27 17:44:14,196 - BasePage - INFO - Sleep for 2 seconds.
+2018-09-27 17:44:17,339 - BasePage - INFO - 开始截图并保存
+2018-09-27 17:44:17,339 - BrowserEngine - INFO - 关闭浏览器.
+2018-09-27 17:44:30,750 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-27 17:44:30,750 - BrowserEngine - INFO - The testServer URL is: https://www.baidu.com.
+2018-09-27 17:44:33,682 - BrowserEngine - INFO - open url:https://www.baidu.com
+2018-09-27 17:44:33,903 - BrowserEngine - INFO - Maximize the current window.
+2018-09-27 17:44:33,904 - BrowserEngine - INFO - 等待10秒.
+2018-09-27 17:44:33,918 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-09-27 17:44:33,923 - BrowserEngine - INFO - 关闭浏览器.
+2018-09-27 17:44:44,241 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-27 17:44:44,242 - BrowserEngine - INFO - The testServer URL is: https://www.baidu.com.
+2018-09-27 17:44:45,020 - BrowserEngine - INFO - open url:https://www.baidu.com
+2018-09-27 17:44:45,233 - BrowserEngine - INFO - Maximize the current window.
+2018-09-27 17:44:45,239 - BrowserEngine - INFO - 等待10秒.
+2018-09-27 17:44:45,273 - BasePage - INFO - Had find the element ' ' successful.by id via value: kw
+2018-09-27 17:44:45,487 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-09-27 17:44:45,534 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-09-27 17:44:45,606 - BasePage - INFO - 页面元素被点击
+2018-09-27 17:44:48,299 - BasePage - INFO - 开始截图并保存
+2018-09-27 17:44:48,304 - BasePage - INFO - Current page title is selenium_百度搜索
+2018-09-27 17:44:48,325 - BasePage - INFO - Had find the element ' ' successful.by id via value: kw
+2018-09-27 17:44:48,439 - BasePage - INFO - Had type ' python ' in inputBox
+2018-09-27 17:44:48,461 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-09-27 17:44:48,538 - BasePage - INFO - 页面元素被点击
+2018-09-27 17:44:51,033 - BasePage - INFO - 开始截图并保存
+2018-09-27 17:44:51,038 - BasePage - INFO - Current page title is python_百度搜索
+2018-09-27 17:44:51,043 - BrowserEngine - INFO - 关闭浏览器.
+2018-09-27 17:44:54,691 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-27 17:44:54,692 - BrowserEngine - INFO - The testServer URL is: https://www.baidu.com.
+2018-09-27 17:44:55,439 - BrowserEngine - INFO - open url:https://www.baidu.com
+2018-09-27 17:44:55,644 - BrowserEngine - INFO - Maximize the current window.
+2018-09-27 17:44:55,647 - BrowserEngine - INFO - 等待10秒.
+2018-09-27 17:44:55,664 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-09-27 17:44:55,672 - BrowserEngine - INFO - 关闭浏览器.
+2018-09-27 17:44:59,724 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-27 17:44:59,724 - BrowserEngine - INFO - The testServer URL is: https://www.baidu.com.
+2018-09-27 17:45:00,391 - BrowserEngine - INFO - open url:https://www.baidu.com
+2018-09-27 17:45:00,609 - BrowserEngine - INFO - Maximize the current window.
+2018-09-27 17:45:00,617 - BrowserEngine - INFO - 等待10秒.
+2018-09-27 17:45:00,657 - BasePage - INFO - Had find the element ' 新闻 ' successful by xpath via value: //*[@id='u1']/a[@name='tj_trnews'] 
+2018-09-27 17:45:02,407 - BasePage - INFO - 页面元素被点击
+2018-09-27 17:45:04,410 - BasePage - INFO - Sleep for 2 seconds.
+2018-09-27 17:45:04,477 - BasePage - INFO - Had find the element ' 体育 ' successful by xpath via value: //*[@id='channel-all']/div/ul/li[7]/a 
+2018-09-27 17:45:05,255 - BasePage - INFO - 页面元素被点击
+2018-09-27 17:45:07,258 - BasePage - INFO - Sleep for 2 seconds.
+2018-09-27 17:45:10,474 - BasePage - INFO - 开始截图并保存
+2018-09-27 17:45:10,475 - BrowserEngine - INFO - 关闭浏览器.
+2018-09-27 17:45:14,586 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-27 17:45:14,586 - BrowserEngine - INFO - The testServer URL is: https://www.baidu.com.
+2018-09-27 17:45:15,454 - BrowserEngine - INFO - open url:https://www.baidu.com
+2018-09-27 17:45:15,680 - BrowserEngine - INFO - Maximize the current window.
+2018-09-27 17:45:15,682 - BrowserEngine - INFO - 等待10秒.
+2018-09-27 17:45:19,976 - BrowserEngine - INFO - 关闭浏览器.

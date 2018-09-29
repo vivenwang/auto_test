@@ -1,0 +1,18 @@
+2018-09-27 17:43:41,857 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-27 17:43:41,858 - BrowserEngine - INFO - The testServer URL is: https://www.baidu.com.
+2018-09-27 17:43:42,801 - BrowserEngine - INFO - open url:https://www.baidu.com
+2018-09-27 17:43:43,007 - BrowserEngine - INFO - Maximize the current window.
+2018-09-27 17:43:43,009 - BrowserEngine - INFO - 等待10秒.
+2018-09-27 17:43:43,054 - BasePage - INFO - Had find the element ' ' successful.by id via value: kw
+2018-09-27 17:43:43,284 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-09-27 17:43:43,325 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-09-27 17:43:43,407 - BasePage - INFO - 页面元素被点击
+2018-09-27 17:43:46,098 - BasePage - INFO - 开始截图并保存
+2018-09-27 17:43:46,103 - BasePage - INFO - Current page title is selenium_百度搜索
+2018-09-27 17:43:46,130 - BasePage - INFO - Had find the element ' ' successful.by id via value: kw
+2018-09-27 17:43:46,271 - BasePage - INFO - Had type ' python ' in inputBox
+2018-09-27 17:43:46,288 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-09-27 17:43:46,360 - BasePage - INFO - 页面元素被点击
+2018-09-27 17:43:48,871 - BasePage - INFO - 开始截图并保存
+2018-09-27 17:43:48,878 - BasePage - INFO - Current page title is python_百度搜索
+2018-09-27 17:43:48,883 - BrowserEngine - INFO - 关闭浏览器.
